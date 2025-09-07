@@ -1,9 +1,9 @@
-# Hello World em C
+# Calculator-C
 
-Primeiro programa em C para aprender GitHub.
+My first projet in Language C.
 
-## Como compilar
+## How Compilate 
 gcc main.c -o hello.exe
 
-## Como correr
-./hello.exe
+## How run
+gcc src/main.c -o calculator-c.exe
